@@ -1,0 +1,23 @@
+{
+    "title": "University Degree",
+    "image": "https://ipfs.io/ipfs/QmdooR1jDPmB8eXn21Ut9fnCdAm2YcTjc6EqanyhnYtJUX",
+    "discription": "An award given by the college/university signifying that the recipient has completed a course of study",
+    "attributes": {
+        "name": {
+            "trait_type": "CGPA",
+            "value": 8,
+            "max_value": 10
+            
+            
+        },
+        "description": {
+            "trait_type": "Major",
+            "value": "Computer Science"
+            
+        },
+        "image": {
+            "Trait_type": "Type of degree",
+            "value": "Bachelor in Engineering"
+        }
+    }
+}
